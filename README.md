@@ -1,5 +1,10 @@
 MiniTest asserts for mongoid.  More details shortly.
 
+Notes
+-----
+
+Roughly ported from riot-mongoid
+
 TODO
 ----
 
